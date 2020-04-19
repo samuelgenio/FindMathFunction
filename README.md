@@ -8,4 +8,4 @@ Através de uma programação genética, onde cada elemento da função é repre
 
 # Solução
 
-![](https://github.com/samuelgenio/FindMathFunction/files/imagem.png)
+![](https://raw.githubusercontent.com/samuelgenio/FindMathFunction/master/files/imagem.png)
